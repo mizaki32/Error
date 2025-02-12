@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -66,7 +65,7 @@
 
 <div class="container">
     <h1>Will You Be My Valentine?</h1>
-    <p>Taby  Will you be my Valentine?</p>
+    <p>Taby Will you be my Valentine?</p>
     <button class="button" onclick="showResponse('yes')">Yes💖</button>
     <button class="button" onclick="showResponse('no')">No😢</button>
     <div class="response" id="response"></div>
